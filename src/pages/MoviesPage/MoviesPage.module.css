@@ -1,0 +1,10 @@
+
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 1200px;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: rgba(237, 197, 255, 0.315);
+}

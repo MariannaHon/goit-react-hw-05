@@ -1,0 +1,22 @@
+
+
+.wrapper {
+    margin-bottom: 50px;
+}
+
+.form {
+    display: flex;
+}
+
+.input {
+    width: 600px;
+    margin-right: 45px;
+    padding: 10px 25px;
+    border-radius: 4px;
+}
+
+.btn {
+    padding: 10px 25px;
+    border-radius: 4px;
+    background-color: rgb(237, 197, 255);
+}
